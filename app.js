@@ -9,7 +9,7 @@ const animals = {
     "bear": "growl",
     "frog": "croak",
     "lion": "roar",
-    "bird": "tweet"
+    "bird": "tweet",
     "goat": "meessi"
 };
 
